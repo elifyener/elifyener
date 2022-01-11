@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Elif👋</h1>
 
 - 🌱 I’m currently learning **Unity**
+- 
+- 💬 I used C#, sql, Python, Ruby, JAVA.
 
 - 📫 How to reach me **elif.yener@bil.omu.edu.tr**
 
