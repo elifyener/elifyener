@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 💬 I used C#, sql, Python, Ruby, JAVA.
+- 💬 I used C#, SQL, Python, Ruby, JAVA.
 
 - 📫 How to reach me **elif.yener@bil.omu.edu.tr**
 
