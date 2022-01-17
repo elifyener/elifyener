@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Elif👋</h1>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Unity** and **Game Art**
 
 - 💬 I used C#, SQL, Python, Ruby, JAVA.
 
